@@ -1,0 +1,7 @@
+# Ignore the test.py file
+test.py
+
+# Other typical entries
+.env
+*.pyc
+__pycache__/
